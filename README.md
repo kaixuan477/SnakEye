@@ -1,6 +1,6 @@
 # SnakEye
 The classic snake game with a little twist :) Integrates OpenCV face tracking system with python Snake Game.
-[SnakEye][https://github.com/kaixuan477/SnakEye.git/Project_demo.jpg]
+[SnakEye] [https://github.com/kaixuan477/SnakEye.git/Project_demo.jpg]
 
 
 Download python 3.10 and Visual Studio Code IDE.
